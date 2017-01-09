@@ -1,0 +1,1 @@
+This is an updated variation of a [clustered force layout](/mbostock/7881887) in D3 v4 that uses D3’s circle-packing layout to initialize node positions.
